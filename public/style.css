@@ -1,0 +1,12 @@
+header{
+    background-color: rgb(75, 74, 74);
+}
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(75, 74, 74);
+    color: white;
+    text-align: center;
+  }
